@@ -15,10 +15,12 @@ quick and beautiful customization gnome
 ```bash
 
     git clone https://github.com/user2510s/dotfiles.git
-    cd dotfiles 
-    chmod +x setup.sh
-    ./setup.sh
 
+    cd dotfiles
+
+    chmod +x setup.sh
+
+    ./setup.sh
 
 ```
     
